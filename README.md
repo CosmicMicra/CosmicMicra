@@ -42,7 +42,7 @@ First Author · IRJET Volume 11, Issue 9 · 2024
 ## 🤝 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soniyaphaltane-blue?style=flat-square)](https://soniyaphaltane-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soniya_Phaltane-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/soniyaphaltane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soniya_Phaltane-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/soniya-phaltane)
 
 ---
 
