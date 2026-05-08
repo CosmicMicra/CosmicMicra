@@ -22,7 +22,8 @@ I build things at the intersection of **ML and security** — anomaly detection,
 | Distributed Job Notifier | Bully leader election · 6ms p50 latency · 96% message reduction | Python, distributed systems |
 | [RAG Study Generator](https://github.com/CosmicMicra/Rag-based-content-generation) | Adaptive study material generation with SentenceTransformers + FAISS + Gemini API | Python, HuggingFace |
 | AWS Security Analyzer | LangChain ReAct agents for automated AWS Security Group compliance | Python, LangChain, AWS |
-| [Bilingual Math Tutor](https://github.com/CosmicMicra/bilingual-math-tutor) | BART-based scaffolding for Spanish-English math learners · BLEU 0.438, ROUGE-L 0.632 | Python, HuggingFace, NLP |
+| [Bilingual Math Tutor](https://github.com/CosmicMicra/bilingual-math-tutor) | BART-based scaffolding for Spanish-English math learners · 3 level scaffolding | Python, HuggingFace, NLP |
+| [AI-story-generator]((https://github.com/CosmicMicra/AI-story-generator)) |Interactive bedtime story application using OpenAI API, featuring multi-layer safety, AI-powered story generation, and audio narration. | Python, HuggingFace, NLP |
 
 ---
 
